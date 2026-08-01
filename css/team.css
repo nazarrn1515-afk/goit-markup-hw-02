@@ -1,0 +1,19 @@
+.team-item {
+    background-color: #ffffff;
+}
+
+.team {
+    background-color: #f4f4fd;
+}
+
+p,
+h3 {
+    text-align: center;
+}
+
+.team-title {
+    text-align: center;
+    font-size: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+}

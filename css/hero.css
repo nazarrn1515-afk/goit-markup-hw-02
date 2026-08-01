@@ -1,0 +1,21 @@
+.hero {
+    color: #FFFFFF;
+    background-color: #2E2F42; 
+}
+
+.hero h1 {
+    text-align: center;
+    font-weight: 700;
+    font-size: 56px;
+}
+
+.hero-btn {
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+}
+
+.hero-btn:hover,
+.hero-btn:focus {
+    color: #FFFFFF;
+    background-color: #404BBF;
+}
